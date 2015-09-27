@@ -1,0 +1,6 @@
+C:\E\Progra\VisualStudioProjects\Hotel\Hotel\bin\Hotel.dll.config
+C:\E\Progra\VisualStudioProjects\Hotel\Hotel\bin\Hotel.dll
+C:\E\Progra\VisualStudioProjects\Hotel\Hotel\bin\Hotel.pdb
+C:\E\Progra\VisualStudioProjects\Hotel\Hotel\obj\Debug\Hotel.csprojResolveAssemblyReference.cache
+C:\E\Progra\VisualStudioProjects\Hotel\Hotel\obj\Debug\Hotel.dll
+C:\E\Progra\VisualStudioProjects\Hotel\Hotel\obj\Debug\Hotel.pdb
